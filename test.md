@@ -39,9 +39,10 @@ melar ciclos y consicionales: si se puede
 
 ##
 
-prompt: les permite a los usuarios escribir 
+prompt: les permite a los usuarios escribir
 
 ## listas
+
 ¿Que es un array?
 -es un conjunto de elementos o lista de elementos
 
@@ -49,27 +50,11 @@ prompt: les permite a los usuarios escribir
 -conjunto de elementos pero cada elemento tiene un nombre clave
 
 ¿cuando es mejor usar objetos o arrays?
- Arrays cuando lo que haremos en un elemento es lo mismo que en todos los demás (la regla se puede incumplir). Mientras que un objeto cuando los nombres de cada elemento son importantes para nuestro algoritmo.
- objeto: cuando agamos cambio a un valor de un elemento especifico 
- array: cuando agamos cambios a los valores 
+Arrays cuando lo que haremos en un elemento es lo mismo que en todos los demás (la regla se puede incumplir). Mientras que un objeto cuando los nombres de cada elemento son importantes para nuestro algoritmo.
+objeto: cuando agamos cambio a un valor de un elemento especifico
+array: cuando agamos cambios a los valores
 
 ¿puedo mesclar array con objetos y biceversa?
 -si
+
 ##
-
-
-¿?
-¿?
-¿?
-¿?
-¿?
-¿?
-¿?
-¿?
-¿?
-¿?
-¿?
-¿?
-¿?
-¿?
-
