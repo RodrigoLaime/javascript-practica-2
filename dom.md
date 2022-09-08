@@ -35,3 +35,7 @@ onchange =''//es un atributo que recive el nombre de la funcion para ejecutar la
 onclick = '' //recive el nombre de la funcion, este se aplica a los buttom, escucha la interaccion de los usuarios al hacer click en el buttom
 
 .addEventListener() {}//escucha cada ves que sucesa un evento y ejecuta el codigo javascript. primero el selector, luego que evento quieres escuchar y luego la funcion a llamar sin parentesis
+
+## ---------------------------------------------
+
+code ./ -r //permite agregar algun proyecto alguna carpeta de mi sistema operativo al editor y que no se agrege como carpeta separa sino directamente a la carpeta principal
